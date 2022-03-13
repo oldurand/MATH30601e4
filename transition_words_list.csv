@@ -1,629 +1,323 @@
-1,above all
-2,absolutely
-3,accordingly
-4,additionally
-5,after all
-6,afterwards
-7,afterward
-8,all in all
-9,all of a sudden
-10,all things considered
-11,although this may be true
-12,altogether
-13,analogous to
-14,another key point
-15,as a matter of fact
-16,as a result
-17,as an illustration
-18,as can be seen
-19,as has been noted
-20,as I have noted
-21,as I have said
-22,as I have shown
-23,as long as
-24,as much as
-25,as shown above
-26,as soon as
-27,as well as
-28,at any rate
-29,at first
-30,at last
-31,at least
-32,at length
-33,at the present time
-34,at the same time
-35,at this instant
-36,at this point
-37,at this time
-38,balanced against
-39,be that as it may
-40,being that
-41,by all means
-42,by and large
-43,by comparison
-44,by the same token
-45,by the time
-46,comparatively
-47,compared to
-48,concurrently
-49,consequently
-50,contrarily
-51,conversely
-52,correspondingly
-53,coupled with
-54,definitely
-55,despite
-56,different from
-57,doubtedly
-58,due to
-59,during
-60,e.g.
-61,emphatically
-62,equally important
-63,even if
-64,even more
-65,even so
-66,even though
-67,eventually
-68,evidently
-69,explicitly
-70,expressively
-71,expressly
-72,extremely
-73,first thing to remember
-74,for example
-75,for fear that
-76,for instance
-77,for one thing
-78,for that reason
-79,for the most part
-80,for the purpose of
-81,for the same reason
-82,for this purpose
-83,for this reason
-84,forthwith
-85,fourthly
-86,from time to time
-87,furthermore
-88,given that
-89,given these points
-90,granted
-91,henceforth
-92,however
-93,i.e.
-94,identically
-95,immediately
-96,important to realize
-97,in a word
-98,in addition
-99,in another case
-100,in any case
-101,in any event
-102,in brief
-103,in case
-104,in conclusion
-105,in contrast
-106,in detail
-107,in due time
-108,in effect
-109,in either case
-110,in essence
-111,in fact
-112,in general
-113,in light of
-114,in like fashion
-115,in like manner
-116,in order that
-117,in order to
-118,in other words
-119,in particular
-120,in reality
-121,in short
-122,in similar fashion
-123,in spite of
-124,in sum
-125,in summary
-126,in that case
-127,in the event that
-128,in the final analysis
-129,in the first place
-130,in the fourth place
-131,in the hope that
-132,in the light of
-133,in the long run
-134,in the meantime
+1,without reservation
+2,without doubt
+3,without delay
+4,without a doubt
+5,with this purpose in mind
+6,with this intention
+7,with this in mind
+8,with the result that
+9,with attention to
+10,while this may be true
+11,while it may be true
+12,whereas
+13,whenever
+14,what is more
+15,vis a vis
+16,up to the present time
+17,up against
+18,until now
+19,unquestionably
+20,unlike
+21,unless
+22,uniquely
+23,undoubtedly
+24,under those circumstances
+25,undeniably
+26,ultimately
+27,together with
+28,to this end
+29,to the end that
+30,to that end
+31,to summarize
+32,to sum up
+33,to say nothing of
+34,to rephrase it
+35,to repeat
+36,to put it differently
+37,to put it another way
+38,to point out
+39,to list
+40,to illustrate
+41,to explain
+42,to enumerate
+43,to emphasize
+44,to demonstrate
+45,to conclude
+46,to clarify
+47,to begin with
+48,to be sure
+49,this time
+50,thirdly
+51,thereupon
+52,therefore
+53,thereafter
+54,then again
+55,that is to say
+56,that is
+57,take the case of
+58,surprisingly
+59,surely
+60,summing up
+61,such as
+62,subsequently
+63,straightaway
+64,specifically
+65,sooner or later
+66,so that
+67,so long as
+68,so far
+69,so as to
+70,simultaneously
+71,similarly
+72,significantly
+73,shortly
+74,seeing that
+75,secondly
+76,second
+77,regardless
+78,rather
+79,provided that
+80,prior to
+81,previously
+82,presently
+83,positively
+84,point often overlooked
+85,particularly
+86,owing to
+87,overall
+88,otherwise
+89,ordinarily
+90,only if
+91,once in a while
+92,on this occasion
+93,on the whole
+94,on the positive side
+95,on the other hand
+96,on the negative side
+97,on the contrary
+98,on the condition that
+99,on one hand
+100,on condition that
+101,on balance
+102,on account of
+103,of course
+104,occasionally
+105,obviously
+106,now that
+107,notwithstanding
+108,notably
+109,not to mention
+110,not only
+111,nonetheless
+112,nevertheless
+113,naturally
+114,namely
+115,must be remembered
+116,most important
+117,most compelling evidence
+118,moreover
+119,meanwhile
+120,markedly
+121,likewise
+122,lastly
+123,instead
+124,instantly
+125,including
+126,inasmuch as
+127,in view of
+128,in truth
+129,in time
+130,in this situation
+131,in this case
+132,in the third place
+133,in the second place
+134,in the same way
 135,in the same fashion
-136,in the same way
-137,in the second place
-138,in the third place
-139,in this case
-140,in this situation
-141,in time
-142,in truth
-143,in view of
-144,inasmuch as
-145,including
-146,instantly
-147,instead
-148,lastly
-149,likewise
-150,markedly
-151,meanwhile
-152,moreover
-153,most compelling evidence
-154,most important
-155,must be remembered
-156,namely
-157,naturally
-158,nevertheless
-159,nonetheless
-160,not only
-161,not to mention
-162,notably
-163,notwithstanding
-164,now that
-165,obviously
-166,occasionally
-167,of course
-168,on account of
-169,on balance
-170,on condition that
-171,on one hand
-172,on the condition that
-173,on the contrary
-174,on the negative side
-175,on the other hand
-176,on the positive side
-177,on the whole
-178,on this occasion
-179,once in a while
-180,only if
-181,ordinarily
-182,otherwise
-183,overall
-184,owing to
-185,particularly
-186,point often overlooked
-187,positively
-188,presently
-189,previously
-190,prior to
-191,provided that
-192,rather
-193,regardless
-194,second
-195,secondly
-196,seeing that
-197,shortly
-198,significantly
-199,similarly
-200,simultaneously
-201,so as to
-202,so far
-203,so long as
-204,so that
-205,sooner or later
-206,specifically
-207,straightaway
-208,subsequently
-209,such as
-210,summing up
-211,surely
-212,surprisingly
-213,take the case of
-214,that is
-215,that is to say
-216,then again
-217,thereafter
-218,therefore
-219,thereupon
-220,thirdly
-221,this time
-222,to be sure
-223,to begin with
-224,to clarify
-225,to conclude
-226,to demonstrate
-227,to emphasize
-228,to enumerate
-229,to explain
-230,to illustrate
-231,to list
-232,to point out
-233,to put it another way
-234,to put it differently
-235,to repeat
-236,to rephrase it
-237,to say nothing of
-238,to sum up
-239,to summarize
-240,to that end
-241,to the end that
-242,to this end
-243,together with
-244,ultimately
-245,undeniably
-246,under those circumstances
-247,undoubtedly
-248,uniquely
-249,unquestionably
-250,until now
-251,up against
-252,up to the present time
-253,vis a vis
-254,above all
-255,absolutely
-256,accordingly
-257,additionally
-258,after all
-259,afterward
-260,afterwards
-261,all in all
-262,all of a sudden
-263,all things considered
-264,although this may be true
-265,altogether
-266,analogous to
-267,another key point
-268,as a matter of fact
-269,as a result
-270,as an illustration
-271,as can be seen
-272,as has been noted
-273,as I have noted
-274,as I have said
-275,as I have shown
-276,as long as
-277,as much as
-278,as shown above
-279,as soon as
-280,as well as
-281,at any rate
-282,at first
-283,at last
-284,at least
-285,at length
-286,at the present time
-287,at the same time
-288,at this instant
-289,at this point
-290,at this time
-291,balanced against
-292,basically
-293,be that as it may
-294,because
-295,before
-296,being that
-297,by all means
-298,by and large
-299,by comparison
-300,by the same token
-301,by the time
-302,comparatively
-303,compared to
-304,concurrently
-305,consequently
-306,contrarily
-307,conversely
-308,correspondingly
-309,coupled with
-310,definitely
-311,despite
-312,different from
-313,doubtedly
-314,due to
-315,during
-316,e.g.
-317,earlier
-318,emphatically
-319,equally
-320,equally important
-321,especially
-322,eternally
-323,even if
-324,even more
-325,even so
-326,even though
-327,eventually
-328,evidently
-329,explicitly
-330,expressively
-331,expressly
-332,extremely
-333,first thing to remember
-334,firstly
-335,following
-336,for example
-337,for fear that
-338,for instance
-339,for one thing
-340,for that reason
-341,for the most part
-342,for the purpose of
-343,for the same reason
-344,for this purpose
-345,for this reason
-346,formerly
-347,forthwith
-348,from time to time
-349,furthermore
-350,generally
-351,given that
-352,given these points
-353,granted
-354,hence
-355,henceforth
-356,however
-357,i.e.
-358,identically
-359,immediately
-360,important to realize
-361,in a word
-362,in addition
-363,in another case
-364,in any case
-365,in any event
-366,in brief
-367,in case
-368,in conclusion
-369,in contrast
-370,in detail
-371,in due time
-372,in effect
-373,in either case
-374,in essence
-375,in fact
-376,in general
-377,in light of
-378,in like fashion
-379,in like manner
-380,in order that
-381,in order to
-382,in other words
-383,in particular
-384,in reality
-385,in short
-386,in similar fashion
-387,in spite of
-388,in sum
-389,in summary
-390,in that case
-391,in the event that
-392,in the final analysis
-393,in the first place
-394,in the fourth place
-395,in the hope that
-396,in the light of
-397,in the long run
-398,in the meantime
-399,in the same fashion
-400,in the same way
-401,in the second place
-402,in the third place
-403,in this case
-404,in this situation
-405,in time
-406,in truth
-407,in view of
-408,inasmuch as
-409,including
-410,likewise
-411,markedly
-412,meanwhile
-413,moreover
-414,most compelling evidence
-415,most important
-416,must be remembered
-417,namely
-418,naturally
-419,nevertheless
-420,nonetheless
-421,not only
-422,not to mention
-423,notably
-424,notwithstanding
-425,now that
-426,obviously
-427,occasionally
-428,of course
-429,on account of
-430,on balance
-431,on condition that
-432,on one hand
-433,on the condition that
-434,on the contrary
-435,on the negative side
-436,on the other hand
-437,on the positive side
-438,on the whole
-439,on this occasion
-440,once in a while
-441,only if
-442,ordinarily
-443,otherwise
-444,overall
-445,owing to
-446,particularly
-447,point often overlooked
-448,positively
-449,presently
-450,previously
-451,prior to
-452,provided that
-453,rather
-454,regardless
-455,secondly
-456,seeing that
-457,shortly
-458,significantly
-459,similarly
-460,simultaneously
-461,so as to
-462,so far
-463,so long as
-464,so that
-465,sooner or later
-466,specifically
-467,straightaway
-468,subsequently
-469,such as
-470,summing up
-471,surely
-472,surprisingly
-473,take the case of
-474,that is
-475,that is to say
-476,then again
-477,thereafter
-478,therefore
-479,thereupon
-480,thirdly
-481,this time
-482,to be sure
-483,to begin with
-484,to clarify
-485,to conclude
-486,to demonstrate
-487,to emphasize
-488,to enumerate
-489,to explain
-490,to illustrate
-491,to list
-492,to point out
-493,to put it another way
-494,to put it differently
-495,to repeat
-496,to rephrase it
-497,to say nothing of
-498,to sum up
-499,to summarize
-500,to that end
-501,to the end that
-502,to this end
-503,together with
-504,ultimately
-505,undeniably
-506,under those circumstances
-507,undoubtedly
-508,uniquely
-509,unless
-510,unlike
-511,unquestionably
-512,until now
-513,up against
-514,up to the present time
-515,vis a vis
-516,what is more
-517,whenever
-518,whereas
-519,while it may be true
-520,while this may be true
-521,with attention to
-522,with the result that
-523,with this in mind
-524,with this intention
-525,with this purpose in mind
-526,without a doubt
-527,without delay
-528,without doubt
-529,without reservation
-530,indeed
-531,instantly
-532,instead
-533,though
-534,hence
-535,firstly
-536,about
-537,after
-538,again
-539,albeit
-540,also
-541,although
-542,another
-543,as
-544,basically
-545,because
-546,before
-547,besides
-548,but
-549,certainly
-550,chiefly
-551,earlier
-552,equally
-553,especially
-554,eternally
-555,finally
-556,first
-557,following
-558,formerly
-559,fourth
-560,further
-561,generally
-562,indeed
-563,last
-564,later
-565,lest
-566,next
-567,nor
-568,now
-569,once
-570,or
-571,since
-572,so
-573,soon
-574,still
-575,than
-576,then
-577,third
-578,thus
-579,till
-580,too
-581,truly
-582,unless
-583,unlike
-584,until
-585,usually
-586,about
-587,after
-588,again
-589,albeit
-590,also
-591,although
-592,another
-593,as
-594,besides
-595,but
-596,certainly
-597,chiefly
-598,finally
-599,first
-600,fourth
-601,fourthly
-602,further
-603,last
-604,lastly
-605,later
-606,lest
-607,next
-608,nor
-609,now
-610,once
-611,or
-612,second
-613,since
-614,so
-615,soon
-616,still
-617,than
-618,then
-619,third
-620,though
-621,thus
-622,till
-623,too
-624,truly
-625,until
-626,usually
-627,when
-628,where
-629,while
+136,in the meantime
+137,in the long run
+138,in the light of
+139,in the hope that
+140,in the fourth place
+141,in the first place
+142,in the final analysis
+143,in the event that
+144,in that case
+145,in summary
+146,in sum
+147,in spite of
+148,in similar fashion
+149,in short
+150,in reality
+151,in particular
+152,in other words
+153,in order to
+154,in order that
+155,in like manner
+156,in like fashion
+157,in light of
+158,in general
+159,in fact
+160,in essence
+161,in either case
+162,in effect
+163,in due time
+164,in detail
+165,in contrast
+166,in conclusion
+167,in case
+168,in brief
+169,in any event
+170,in any case
+171,in another case
+172,in addition
+173,in a word
+174,important to realize
+175,immediately
+176,identically
+177,i.e.
+178,however
+179,henceforth
+180,hence
+181,granted
+182,given these points
+183,given that
+184,generally
+185,furthermore
+186,from time to time
+187,fourthly
+188,forthwith
+189,formerly
+190,for this reason
+191,for this purpose
+192,for the same reason
+193,for the purpose of
+194,for the most part
+195,for that reason
+196,for one thing
+197,for instance
+198,for fear that
+199,for example
+200,following
+201,firstly
+202,first thing to remember
+203,extremely
+204,expressly
+205,expressively
+206,explicitly
+207,evidently
+208,eventually
+209,even though
+210,even so
+211,even more
+212,even if
+213,eternally
+214,especially
+215,equally important
+216,equally
+217,emphatically
+218,earlier
+219,e.g.
+220,during
+221,due to
+222,doubtedly
+223,different from
+224,despite
+225,definitely
+226,coupled with
+227,correspondingly
+228,conversely
+229,contrarily
+230,consequently
+231,concurrently
+232,compared to
+233,comparatively
+234,by the time
+235,by the same token
+236,by comparison
+237,by and large
+238,by all means
+239,being that
+240,before
+241,because
+242,be that as it may
+243,basically
+244,balanced against
+245,at this time
+246,at this point
+247,at this instant
+248,at the same time
+249,at the present time
+250,at length
+251,at least
+252,at last
+253,at first
+254,at any rate
+255,as well as
+256,as soon as
+257,as shown above
+258,as much as
+259,as long as
+260,as I have shown
+261,as I have said
+262,as I have noted
+263,as has been noted
+264,as can be seen
+265,as an illustration
+266,as a result
+267,as a matter of fact
+268,another key point
+269,analogous to
+270,altogether
+271,although this may be true
+272,all things considered
+273,all of a sudden
+274,all in all
+275,afterwards
+276,afterward
+277,after all
+278,additionally
+279,accordingly
+280,absolutely
+281,above all
+282,while
+283,where
+284,when
+285,usually
+286,until
+287,truly
+288,too
+289,till
+290,thus
+291,though
+292,third
+293,then
+294,than
+295,still
+296,soon
+297,so
+298,since
+299,or
+300,once
+301,now
+302,nor
+303,next
+304,lest
+305,later
+306,last
+307,indeed
+308,further
+309,fourth
+310,first
+311,finally
+312,chiefly
+313,certainly
+314,but
+315,besides
+316,as
+317,another
+318,although
+319,also
+320,albeit
+321,again
+322,after
+323,about
