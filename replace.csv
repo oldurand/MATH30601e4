@@ -5,8 +5,8 @@ index,original,new
 4,dressed,jaimeSommers
 5,dressing room,spiderman
 6,dressy,steveAustin
-7,dresses,
-8,dress,
+7,dresses, 
+8,dress, 
 9,spiderman,dressroom
 10,steveAustin,dressy
 11,jaimeSommers,dressed
@@ -54,3 +54,6 @@ index,original,new
 53, anyways , anyway 
 54, anyw , anyway 
 55, als , also 
+56,lbs,pound
+57,lb,pound
+58, be , 
