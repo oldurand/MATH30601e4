@@ -1,42 +1,42 @@
 ﻿index,sizes,description,Proposition
-1,xxsp,size petite,xsmall petite
-2,pxxs,size petite,xsmall petite
-3,xsp,size petite,xsmall petite
-4,pxs,size petite,xsmall petite
-5,xspetite,size petite,xsmall petite
-6,sp,size petite,small petite
-7,ps,size petite,small petite
-8,mp,size petite,medium petite
-9,pm,size petite,medium petite
-10,xlp,size petite,xlarge petite
-11,pxl,size petite,xlarge petite
-12,lp,size petite,large petite
-13,pl,size petite,large petite
-14,00p,size petite,xsmall petite
-15,p00,size petite,xsmall petite
-16,10p,size petite,medium petite
-17,p10,size petite,medium petite
-18,12p,size petite,medium petite
-19,p12,size petite,medium petite
-20,14p,size petite,large petite
-21,p14,size petite,large petite
-22,16p,size petite,large petite
-23,p16,size petite,large petite
-24,18p,size petite,xlarge petite
-25,p18,size petite,xlarge petite
-26,0p,size petite,xsmall petite
-27,p0,size petite,xsmall petite
-28,2p,size petite,xsmall petite
-29,p2,size petite,xsmall petite
-30,4p,size petite,xsmall petite
-31,p4,size petite,xsmall petite
-32,6p,size petite,small petite
-33,p6,size petite,small petite
-34,8p,size petite,medium petite
-35,p8,size petite,medium petite
-36,xxs,size  ,xsmall  
-37,xs,size  ,xsmall  
-38,xl,size  ,xlarge  
+1,xxs ,size  ,xsmall  
+2,xs ,size  ,xsmall  
+3,xl ,size  ,xlarge  
+4,xxsp,size petite,xsmall petite
+5,pxxs,size petite,xsmall petite
+6,xsp,size petite,xsmall petite
+7,pxs,size petite,xsmall petite
+8,xspetite,size petite,xsmall petite
+9,sp ,size petite,small petite
+10,ps ,size petite,small petite
+11,mp,size petite,medium petite
+12,pm,size petite,medium petite
+13,xlp,size petite,xlarge petite
+14,pxl,size petite,xlarge petite
+15,lp,size petite,large petite
+16,pl,size petite,large petite
+17,00p,size petite,xsmall petite
+18,p00,size petite,xsmall petite
+19,10p,size petite,medium petite
+20,p10,size petite,medium petite
+21,12p,size petite,medium petite
+22,p12,size petite,medium petite
+23,14p,size petite,large petite
+24,p14,size petite,large petite
+25,16p,size petite,large petite
+26,p16,size petite,large petite
+27,18p,size petite,xlarge petite
+28,p18,size petite,xlarge petite
+29,0p,size petite,xsmall petite
+30,p0,size petite,xsmall petite
+31,2p,size petite,xsmall petite
+32,p2,size petite,xsmall petite
+33,4p,size petite,xsmall petite
+34,p4,size petite,xsmall petite
+35,6p,size petite,small petite
+36,p6,size petite,small petite
+37,8p,size petite,medium petite
+38,p8,size petite,medium petite
 39,30dddd,chest,chxlarge
 40,32dddd,chest,chxlarge
 41,34dddd,chest,chxlarge
@@ -127,6 +127,6 @@
 126,44f,chest,chxlarge
 127,46e,chest,chxlarge
 128,48d,chest,chxlarge
-129,dd,chest,chlarge
+129,dd ,chest,chlarge
 130,extra small,extra small,xsmall
 131,extra large,extra large,xlarge
