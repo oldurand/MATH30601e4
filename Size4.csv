@@ -1,0 +1,162 @@
+﻿index;sizes;description;Proposition
+1;xxsp;size petite;xsmall petite
+2;pxxs;size petite;xsmall petite
+3;xsp;size petite;xsmall petite
+4;xsp;size petite;xsmall petite
+5;pxs;size petite;xsmall petite
+6;xspetite;size petite;xsmall petite
+7;sp;size petite;small petite
+8;sp;size petite;small petite
+9;ps;size petite;small petite
+10;mp;size petite;medium petite
+11;mp;size petite;medium petite
+12;pm;size petite;medium petite
+13;xlp;size petite;xlarge petite
+14;xlp;size petite;xlarge petite
+15;pxl;size petite;xlarge petite
+16;lp;size petite;large petite
+17;lp;size petite;large petite
+18;pl;size petite;large petite
+19;00p;size petite;xsmall petite
+20;p00;size petite;xsmall petite
+21;10p;size petite;medium petite
+22;p10;size petite;medium petite
+23;12p;size petite;medium petite
+24;p12;size petite;medium petite
+25;14p;size petite;large petite
+26;p14;size petite;large petite
+27;16p;size petite;large petite
+28;p16;size petite;large petite
+29;18p;size petite;xlarge petite
+30;p18;size petite;xlarge petite
+31;0p;size petite;xsmall petite
+32;p0;size petite;xsmall petite
+33;2p;size petite;xsmall petite
+34;p2;size petite;xsmall petite
+35;4p;size petite;xsmall petite
+36;p4;size petite;xsmall petite
+37;6p;size petite;small petite
+38;p6;size petite;small petite
+39;8p;size petite;medium petite
+40;p8;size petite;medium petite
+41;xxs;size  ;xsmall  
+42;xs;size  ;xsmall  
+43;xs;size  ;xsmall  
+44;xl;size  ;xlarge  
+45;xl;size  ;xlarge  
+51;l ;size  ;large
+52;l ;size  ;large
+53;s ;size  ;small
+54;s ;size  ;small
+55;m ;size  ;medium
+56;m ;size  ;medium
+57;p ;size  ;petite
+58;30dddd;chest;boxlarge
+59;32dddd;chest;boxlarge
+60;34dddd;chest;boxlarge
+61;36dddd;chest;boxlarge
+62;38dddd;chest;boxlarge
+63;40dddd;chest;boxlarge
+64;42dddd;chest;boxlarge
+65;30ddd;chest;boxlarge
+66;32ddd;chest;boxlarge
+67;34ddd;chest;boxlarge
+68;36ddd;chest;boxlarge
+69;38ddd;chest;boxlarge
+70;40ddd;chest;boxlarge
+71;42ddd;chest;boxlarge
+72;44ddd;chest;boxlarge
+73;30dd;chest;boxlarge
+74;32dd;chest;boxlarge
+75;34dd;chest;bolarge
+76;36dd;chest;boxlarge
+77;38dd;chest;boxlarge
+78;40dd;chest;boxlarge
+79;42dd;chest;boxlarge
+80;44dd;chest;boxlarge
+81;46dd;chest;boxlarge
+82;34aa;chest;boxsmall
+83;30b;chest;boxsmall
+84;32a;chest;boxsmall
+85;30c;chest;bomedium
+86;32b;chest;boxsmall
+87;34a;chest;boxsmall
+88;30c;chest;bomedium
+89;32b;chest;boxsmall
+90;34a;chest;boxsmall
+91;30d;chest;bomedium
+92;32c;chest;bosmall
+93;34b;chest;bosmall
+94;36a;chest;boxsmall
+95;30d;chest;bomedium
+96;32c;chest;bosmall
+97;34b;chest;bosmall
+98;36a;chest;boxsmall
+99;30e;chest;bolarge
+100;32d;chest;bomedium
+101;34c;chest;bomedium
+102;36b;chest;bomedium
+103;38a;chest;bomedium
+104;30e;chest;boxlarge
+105;32d;chest;bomedium
+106;34c;chest;bomedium
+107;36b;chest;bomedium
+108;38a;chest;bomedium
+109;30f;chest;bomedium
+110;32e;chest;boxlarge
+111;34d;chest;bomedium
+112;36c;chest;bomedium
+113;38b;chest;bolarge
+114;40a;chest;boxlarge
+115;32e;chest;boxlarge
+116;34d;chest;bomedium
+117;36c;chest;bomedium
+118;38b;chest;bolarge
+119;40a;chest;boxlarge
+120;30g;chest;boxlarge
+121;32f;chest;boxlarge
+122;34e;chest;boxlarge
+123;36d;chest;bolarge
+124;38c;chest;bolarge
+125;40b;chest;boxlarge
+126;32g;chest;boxlarge
+127;34f;chest;boxlarge
+128;36e;chest;boxlarge
+129;38d;chest;boxlarge
+130;40c;chest;boxlarge
+131;42b;chest;boxlarge
+132;32h;chest;boxlarge
+133;34g;chest;boxlarge
+134;36f;chest;boxlarge
+135;38e;chest;boxlarge
+136;40d;chest;boxlarge
+137;42c;chest;boxlarge
+138;44b;chest;boxlarge
+139;34h;chest;boxlarge
+140;36g;chest;boxlarge
+141;38f;chest;boxlarge
+142;40e;chest;boxlarge
+143;42d;chest;boxlarge
+144;44c;chest;boxlarge
+145;46b;chest;boxlarge
+146;36h;chest;boxlarge
+147;38g;chest;boxlarge
+148;40f;chest;boxlarge
+149;42e;chest;boxlarge
+150;44d;chest;boxlarge
+151;46c;chest;boxlarge
+152;48b;chest;boxlarge
+153;38h;chest;boxlarge
+154;40g;chest;boxlarge
+155;42f;chest;boxlarge
+156;44e;chest;boxlarge
+157;46d;chest;boxlarge
+158;48c;chest;boxlarge
+159;38i;chest;boxlarge
+160;40h;chest;boxlarge
+161;42g;chest;boxlarge
+162;44f;chest;boxlarge
+163;46e;chest;boxlarge
+164;48d;chest;boxlarge
+171;x;size;
+172;dd;chest;bolarge
