@@ -14,7 +14,7 @@ index,original,new
 13, ft,feet
 14, ot ,overtop
 15, sz ,size
-16, dd ,chxlarge
+16, dd ,ddcup
 17, l ,large
 18, s ,small
 19, m ,medium
@@ -58,3 +58,11 @@ index,original,new
 57,lb,pound
 58, be , 
 59,hte,hardexplain
+60, th , 
+61, c ,ccup
+62, b ,bcup
+63, a ,acup
+64, d ,dcup
+65, do , 
+66, yes , 
+67, no , 
