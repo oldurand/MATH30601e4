@@ -12,7 +12,7 @@ index,original,new
 11,jaimeSommers,dressed
 12, w ,with
 13, ft,feet
-14, ot ,overthetop
+14, ot ,overtop
 15, sz ,size
 16, dd ,chxlarge
 17, l ,large
@@ -20,7 +20,7 @@ index,original,new
 19, m ,medium
 20, p ,petite
 21, x ,extra
-22, tts ,truetosize
+22, tts ,truesize
 23, zipping up ,zipper
 24, zipping ,zipper
 25, zips ,zipper
@@ -57,3 +57,4 @@ index,original,new
 56,lbs,pound
 57,lb,pound
 58, be , 
+59,hte,hardexplain
