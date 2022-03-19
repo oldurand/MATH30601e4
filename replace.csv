@@ -1,6 +1,6 @@
 index,original,new
 1,v-neck,vneck
-2, v neck ,vneck
+2, v neck,vneck
 3, d ,chest
 4,dressed,jaimeSommers
 5,dressing room,spiderman
@@ -11,7 +11,7 @@ index,original,new
 10,steveAustin,dressy
 11,jaimeSommers,dressed
 12, w ,with
-13, ft,feet
+13, ft ,feet
 14, ot ,overtop
 15, sz ,size
 16, dd ,ddcup
@@ -61,8 +61,7 @@ index,original,new
 60, th , 
 61, c ,ccup
 62, b ,bcup
-63, a ,acup
-64, d ,dcup
-65, do , 
-66, yes , 
-67, no , 
+63, d ,dcup
+64, do , 
+65, yes , 
+66, no , 
