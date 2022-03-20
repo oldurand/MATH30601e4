@@ -1,18 +1,18 @@
 ﻿index,sizes,description,Proposition
 1,xxs ,size  ,xsmall  
-2,xs ,size  ,xsmall  
-3,xl ,size  ,xlarge  
-4,xxsp,size petite,xsmall petite
-5,pxxs,size petite,xsmall petite
-6,xsp,size petite,xsmall petite
-7,pxs,size petite,xsmall petite
-8,xspetite,size petite,xsmall petite
-9,sp ,size petite,small petite
-10,ps ,size petite,small petite
-11,mp,size petite,medium petite
-12,pm,size petite,medium petite
-13,xlp,size petite,xlarge petite
-14,pxl,size petite,xlarge petite
+2,xxsp,size petite,xsmall petite
+3,pxxs,size petite,xsmall petite
+4,xsp,size petite,xsmall petite
+5,pxs,size petite,xsmall petite
+6,xspetite,size petite,xsmall petite
+7,xs ,size  ,xsmall  
+8,sp ,size petite,small petite
+9,ps ,size petite,small petite
+10,mp,size petite,medium petite
+11,pm,size petite,medium petite
+12,xlp,size petite,xlarge petite
+13,pxl,size petite,xlarge petite
+14,xl ,size  ,xlarge  
 15,lp,size petite,large petite
 16,pl,size petite,large petite
 17,00p,size petite,xsmall petite
