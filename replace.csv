@@ -1,7 +1,7 @@
 index,original,new
 1,v-neck,vneck
-2, v neck,vneck
-3, d ,chest
+2,v neck,vneck
+3,d,chest
 4,dressed,jaimeSommers
 5,dressing room,spiderman
 6,dressy,steveAustin
@@ -10,62 +10,63 @@ index,original,new
 9,spiderman,dressroom
 10,steveAustin,dressy
 11,jaimeSommers,dressed
-12, w ,with
-13, ft ,feet
-14, ot ,overtop
-15, sz ,size
-16, dd ,ddcup
-17, l ,large
-18, s ,small
-19, m ,medium
-20, p ,petite
-21, x ,extra
-22, tts ,truesize
-23, zipping up ,zipper
-24, zipping ,zipper
-25, zips ,zipper
-26, zipepr ,zipper
-27, belly ,stomach
-28, tummy ,stomach
-29, boob ,chest
-30, boo ,chest
-31, boobage ,chest
-32, breast ,chest
-33, tits ,chest
-34, cehst ,chest
-35,busty up,chest
-36,busty,chest
-37,bustline,chest
-38,bust,chest
-39, busi ,business
-40,color ish,color
-41,color color,color
-42,colors,color
-43, med ,medium
-44, actualyl ,actually
-45, absolute , absolutely 
-46, absolutley , absolutely 
-47, absoluty , absolutely 
-48, accessorized , accessory 
-49, accessorizes , accessory 
-50, accessorize , accessory 
-51, absoluty , absolutely 
-52, accomodate , accommodate 
-53, adjustability , adjustable 
-54, adjsut , adjust 
-55, adjustment , adjust 
-56, adoreable , adorable 
-57, anyways , anyway 
-58, anyw , anyway 
-59, als , also 
-60,lbs,pound
-61,lb,pound
-62, be , 
-63,hte,hardexplain
-64, th , 
-65, c ,ccup
-66, b ,bcup
-67, d ,dcup
-68, do , 
-69, yes , 
-70, no , 
+12,w,with
+13,ft,feet
+14,ot,overtop
+15,sz,size
+16,dd,ddcup
+17,l,large
+18,s,small
+19,m,medium
+20,p,petite
+21,x,extra
+22,t,tee
+23,tts,truesize
+24,zipping up,zipper
+25,zipping,zipper
+26,zips,zipper
+27,zipepr,zipper
+28,belly,stomach
+29,tummy,stomach
+30,boob,chest
+31,boo,chest
+32,boobage,chest
+33,breast,chest
+34,tits,chest
+35,cehst,chest
+36,busty up,chest
+37,busty,chest
+38,bustline,chest
+39,bust,chest
+40,busi,business
+41,color ish,color
+42,color color,color
+43,colors,color
+44,med,medium
+45,actualyl,actually
+46,absolute, absolutely 
+47,absolutley, absolutely 
+48,absoluty, absolutely 
+49,accessorized, accessory 
+50,accessorizes, accessory 
+51,accessorize, accessory 
+52,absoluty, absolutely 
+53,accomodate, accommodate 
+54,adjustability, adjustable 
+55,adjsut, adjust 
+56,adjustment, adjust 
+57,adoreable, adorable 
+58,anyways, anyway 
+59,anyw, anyway 
+60,als, also 
+61,lbs,pound
+62,lb,pound
+63,be, 
+64,hte,hardexplain
+65,th, 
+66,c,ccup
+67,b,bcup
+68,d,dcup
+69,do, 
+70,yes, 
+71,no, 
