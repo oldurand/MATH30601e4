@@ -1,132 +1,222 @@
 ﻿index,sizes,description,Proposition
-1,xxs ,size  ,xsmall  
-2,xs ,size  ,xsmall  
-3,xl ,size  ,xlarge  
-4,xxsp,size petite,xsmall petite
-5,pxxs,size petite,xsmall petite
-6,xsp,size petite,xsmall petite
-7,pxs,size petite,xsmall petite
-8,xspetite,size petite,xsmall petite
-9,sp ,size petite,small petite
-10,ps ,size petite,small petite
-11,mp,size petite,medium petite
-12,pm,size petite,medium petite
-13,xlp,size petite,xlarge petite
-14,pxl,size petite,xlarge petite
-15,lp,size petite,large petite
-16,pl,size petite,large petite
-17,00p,size petite,xsmall petite
-18,p00,size petite,xsmall petite
-19,10p,size petite,medium petite
-20,p10,size petite,medium petite
-21,12p,size petite,medium petite
-22,p12,size petite,medium petite
-23,14p,size petite,large petite
-24,p14,size petite,large petite
-25,16p,size petite,large petite
-26,p16,size petite,large petite
-27,18p,size petite,xlarge petite
-28,p18,size petite,xlarge petite
-29,0p,size petite,xsmall petite
-30,p0,size petite,xsmall petite
-31,2p,size petite,xsmall petite
-32,p2,size petite,xsmall petite
-33,4p,size petite,xsmall petite
-34,p4,size petite,xsmall petite
-35,6p,size petite,small petite
-36,p6,size petite,small petite
-37,8p,size petite,medium petite
-38,p8,size petite,medium petite
-39,30dddd,chest,chxlarge
-40,32dddd,chest,chxlarge
-41,34dddd,chest,chxlarge
-42,36dddd,chest,chxlarge
-43,38dddd,chest,chxlarge
-44,40dddd,chest,chxlarge
-45,42dddd,chest,chxlarge
-46,30ddd,chest,chxlarge
-47,32ddd,chest,chxlarge
-48,34ddd,chest,chxlarge
-49,36ddd,chest,chxlarge
-50,38ddd,chest,chxlarge
-51,40ddd,chest,chxlarge
-52,42ddd,chest,chxlarge
-53,44ddd,chest,chxlarge
-54,30dd,chest,chxlarge
-55,32dd,chest,chxlarge
-56,34dd,chest,chlarge
-57,36dd,chest,chxlarge
-58,38dd,chest,chxlarge
-59,40dd,chest,chxlarge
-60,42dd,chest,chxlarge
-61,44dd,chest,chxlarge
-62,46dd,chest,chxlarge
-63,34aa,chest,chxsmall
-64,30b,chest,chxsmall
-65,32a,chest,chxsmall
-66,30c,chest,chmedium
-67,32b,chest,chxsmall
-68,34a,chest,chxsmall
-69,30d,chest,chmedium
-70,32c,chest,chsmall
-71,34b,chest,chsmall
-72,36a,chest,chxsmall
-73,30e,chest,chlarge
-74,32d,chest,chmedium
-75,34c,chest,chmedium
-76,36b,chest,chmedium
-77,38a,chest,chmedium
-78,30f,chest,chmedium
-79,32e,chest,chxlarge
-80,34d,chest,chmedium
-81,36c,chest,chmedium
-82,38b,chest,chlarge
-83,40a,chest,chxlarge
-84,30g,chest,chxlarge
-85,32f,chest,chxlarge
-86,34e,chest,chxlarge
-87,36d,chest,chlarge
-88,38c,chest,chlarge
-89,40b,chest,chxlarge
-90,32g,chest,chxlarge
-91,34f,chest,chxlarge
-92,36e,chest,chxlarge
-93,38d,chest,chxlarge
-94,40c,chest,chxlarge
-95,42b,chest,chxlarge
-96,32h,chest,chxlarge
-97,34g,chest,chxlarge
-98,36f,chest,chxlarge
-99,38e,chest,chxlarge
-100,40d,chest,chxlarge
-101,42c,chest,chxlarge
-102,44b,chest,chxlarge
-103,34h,chest,chxlarge
-104,36g,chest,chxlarge
-105,38f,chest,chxlarge
-106,40e,chest,chxlarge
-107,42d,chest,chxlarge
-108,44c,chest,chxlarge
-109,46b,chest,chxlarge
-110,36h,chest,chxlarge
-111,38g,chest,chxlarge
-112,40f,chest,chxlarge
-113,42e,chest,chxlarge
-114,44d,chest,chxlarge
-115,46c,chest,chxlarge
-116,48b,chest,chxlarge
-117,38h,chest,chxlarge
-118,40g,chest,chxlarge
-119,42f,chest,chxlarge
-120,44e,chest,chxlarge
-121,46d,chest,chxlarge
-122,48c,chest,chxlarge
-123,38i,chest,chxlarge
-124,40h,chest,chxlarge
-125,42g,chest,chxlarge
-126,44f,chest,chxlarge
-127,46e,chest,chxlarge
-128,48d,chest,chxlarge
-129,dd,chest,chlarge
-130,extra small,extra small,xsmall
-131,extra large,extra large,xlarge
+1,30dddd,chest,chxlarge
+2,32dddd,chest,chxlarge
+3,34dddd,chest,chxlarge
+4,36dddd,chest,chxlarge
+5,38dddd,chest,chxlarge
+6,40dddd,chest,chxlarge
+7,42dddd,chest,chxlarge
+8,30ddd,chest,chxlarge
+9,32ddd,chest,chxlarge
+10,34ddd,chest,chxlarge
+11,36ddd,chest,chxlarge
+12,38ddd,chest,chxlarge
+13,40ddd,chest,chxlarge
+14,42ddd,chest,chxlarge
+15,44ddd,chest,chxlarge
+16,30dd,chest,chxlarge
+17,32dd,chest,chxlarge
+18,34dd,chest,chlarge
+19,36dd,chest,chxlarge
+20,38dd,chest,chxlarge
+21,40dd,chest,chxlarge
+22,42dd,chest,chxlarge
+23,44dd,chest,chxlarge
+24,46dd,chest,chxlarge
+25,34aa,chest,chxsmall
+26,30b,chest,chxsmall
+27,32a,chest,chxsmall
+28,30c,chest,chmedium
+29,32b,chest,chxsmall
+30,34a,chest,chxsmall
+31,30d,chest,chmedium
+32,32c,chest,chsmall
+33,34b,chest,chsmall
+34,36a,chest,chxsmall
+35,30e,chest,chlarge
+36,32d,chest,chmedium
+37,34c,chest,chmedium
+38,36b,chest,chmedium
+39,38a,chest,chmedium
+40,30f,chest,chmedium
+41,32e,chest,chxlarge
+42,34d,chest,chmedium
+43,36c,chest,chmedium
+44,38b,chest,chlarge
+45,40a,chest,chxlarge
+46,30g,chest,chxlarge
+47,32f,chest,chxlarge
+48,34e,chest,chxlarge
+49,36d,chest,chlarge
+50,38c,chest,chlarge
+51,40b,chest,chxlarge
+52,32g,chest,chxlarge
+53,34f,chest,chxlarge
+54,36e,chest,chxlarge
+55,38d,chest,chxlarge
+56,40c,chest,chxlarge
+57,42b,chest,chxlarge
+58,32h,chest,chxlarge
+59,34g,chest,chxlarge
+60,36f,chest,chxlarge
+61,38e,chest,chxlarge
+62,40d,chest,chxlarge
+63,42c,chest,chxlarge
+64,44b,chest,chxlarge
+65,34h,chest,chxlarge
+66,36g,chest,chxlarge
+67,38f,chest,chxlarge
+68,40e,chest,chxlarge
+69,42d,chest,chxlarge
+70,44c,chest,chxlarge
+71,46b,chest,chxlarge
+72,36h,chest,chxlarge
+73,38g,chest,chxlarge
+74,40f,chest,chxlarge
+75,42e,chest,chxlarge
+76,44d,chest,chxlarge
+77,46c,chest,chxlarge
+78,48b,chest,chxlarge
+79,38h,chest,chxlarge
+80,40g,chest,chxlarge
+81,42f,chest,chxlarge
+82,44e,chest,chxlarge
+83,46d,chest,chxlarge
+84,48c,chest,chxlarge
+85,38i,chest,chxlarge
+86,40h,chest,chxlarge
+87,42g,chest,chxlarge
+88,44f,chest,chxlarge
+89,46e,chest,chxlarge
+90,48d,chest,chxlarge
+91,30 dddd,chest,chxlarge
+92,32 dddd,chest,chxlarge
+93,34 dddd,chest,chxlarge
+94,36 dddd,chest,chxlarge
+95,38 dddd,chest,chxlarge
+96,40 dddd,chest,chxlarge
+97,42 dddd,chest,chxlarge
+98,30 ddd,chest,chxlarge
+99,32 ddd,chest,chxlarge
+100,34 ddd,chest,chxlarge
+101,36 ddd,chest,chxlarge
+102,38 ddd,chest,chxlarge
+103,40 ddd,chest,chxlarge
+104,42 ddd,chest,chxlarge
+105,44 ddd,chest,chxlarge
+106,30 dd,chest,chxlarge
+107,32 dd,chest,chxlarge
+108,34 dd,chest,chlarge
+109,36 dd,chest,chxlarge
+110,38 dd,chest,chxlarge
+111,40 dd,chest,chxlarge
+112,42 dd,chest,chxlarge
+113,44 dd,chest,chxlarge
+114,46 dd,chest,chxlarge
+115,34 aa,chest,chxsmall
+116,30 b,chest,chxsmall
+117,32 a,chest,chxsmall
+118,30 c,chest,chmedium
+119,32 b,chest,chxsmall
+120,34 a,chest,chxsmall
+121,30 d,chest,chmedium
+122,32 c,chest,chsmall
+123,34 b,chest,chsmall
+124,36 a,chest,chxsmall
+125,30 e,chest,chlarge
+126,32 d,chest,chmedium
+127,34 c,chest,chmedium
+128,36 b,chest,chmedium
+129,38 a,chest,chmedium
+130,30 f,chest,chmedium
+131,32 e,chest,chxlarge
+132,34 d,chest,chmedium
+133,36 c,chest,chmedium
+134,38 b,chest,chlarge
+135,40 a,chest,chxlarge
+136,30 g,chest,chxlarge
+137,32 f,chest,chxlarge
+138,34 e,chest,chxlarge
+139,36 d,chest,chlarge
+140,38 c,chest,chlarge
+141,40 b,chest,chxlarge
+142,32 g,chest,chxlarge
+143,34 f,chest,chxlarge
+144,36 e,chest,chxlarge
+145,38 d,chest,chxlarge
+146,40 c,chest,chxlarge
+147,42 b,chest,chxlarge
+148,32 h,chest,chxlarge
+149,34 g,chest,chxlarge
+150,36 f,chest,chxlarge
+151,38 e,chest,chxlarge
+152,40 d,chest,chxlarge
+153,42 c,chest,chxlarge
+154,44 b,chest,chxlarge
+155,34 h,chest,chxlarge
+156,36g,chest,chxlarge
+157,38 f,chest,chxlarge
+158,40 e,chest,chxlarge
+159,42 d,chest,chxlarge
+160,44 c,chest,chxlarge
+161,46 b,chest,chxlarge
+162,36 h,chest,chxlarge
+163,38 g,chest,chxlarge
+164,40 f,chest,chxlarge
+165,42 e,chest,chxlarge
+166,44 d,chest,chxlarge
+167,46 c,chest,chxlarge
+168,48 b,chest,chxlarge
+169,38 h,chest,chxlarge
+170,40 g,chest,chxlarge
+171,42 f,chest,chxlarge
+172,44 e,chest,chxlarge
+173,46 d,chest,chxlarge
+174,48 c,chest,chxlarge
+175,38 i,chest,chxlarge
+176,40 h,chest,chxlarge
+177,42 g,chest,chxlarge
+178,44 f,chest,chxlarge
+179,46 e,chest,chxlarge
+180,48 d,chest,chxlarge
+181,xxs ,size  ,xsmall  
+182,xxsp,size petite,xsmall petite
+183,pxxs,size petite,xsmall petite
+184,xsp,size petite,xsmall petite
+185,pxs,size petite,xsmall petite
+186,xspetite,size petite,xsmall petite
+187,xs ,size  ,xsmall  
+188,sp ,size petite,small petite
+189,ps ,size petite,small petite
+190,mp,size petite,medium petite
+191,pm,size petite,medium petite
+192,xlp,size petite,xlarge petite
+193,pxl,size petite,xlarge petite
+194,xl ,size  ,xlarge  
+195,lp,size petite,large petite
+196,pl,size petite,large petite
+197,00p,size petite,xsmall petite
+198,p00,size petite,xsmall petite
+199,10p,size petite,medium petite
+200,p10,size petite,medium petite
+201,12p,size petite,medium petite
+202,p12,size petite,medium petite
+203,14p,size petite,large petite
+204,p14,size petite,large petite
+205,16p,size petite,large petite
+206,p16,size petite,large petite
+207,18p,size petite,xlarge petite
+208,p18,size petite,xlarge petite
+209,0p,size petite,xsmall petite
+210,p0,size petite,xsmall petite
+211,2p,size petite,xsmall petite
+212,p2,size petite,xsmall petite
+213,4p,size petite,xsmall petite
+214,p4,size petite,xsmall petite
+215,6p,size petite,small petite
+216,p6,size petite,small petite
+217,8p,size petite,medium petite
+218,p8,size petite,medium petite
+219,dd ,chest,chlarge
+220,extra small,extra small,xsmall
+221,extra large,extra large,xlarge
